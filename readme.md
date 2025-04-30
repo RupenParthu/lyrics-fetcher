@@ -1,4 +1,4 @@
-# 🎵 Find My Lyrics
+# 🎵 Lyrics Fetcher
 
 A sleek and modern web app that lets users **search for song lyrics** and access the song on platforms like **YouTube Music, Spotify, and Apple Music**. Crafted with ❤️ using HTML, CSS, and JavaScript.
 
@@ -12,6 +12,7 @@ A sleek and modern web app that lets users **search for song lyrics** and access
   - YouTube Music
   - Spotify
   - Apple Music  
+
 ---
 
 ## 🖼️ Screenshots
@@ -28,7 +29,6 @@ After entering the artist and song name, the lyrics are fetched and displayed al
 
 ![Lyrics Result View](assets/ss2.png)
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -43,7 +43,7 @@ After entering the artist and song name, the lyrics are fetched and displayed al
 
 ## 📦 Setup
 
-Clone the repository and run the html file:
+Clone the repository and run the HTML file:
 ```bash
-https://github.com/RupenParthu/find-my-lyrics
-cd find-my-lyrics
+https://github.com/RupenParthu/lyrics-fetcher
+cd lyrics-fetcher
