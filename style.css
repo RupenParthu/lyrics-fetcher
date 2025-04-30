@@ -75,7 +75,6 @@
     box-shadow: 0 0 20px #3599eb;
     outline: none;
   }
-
   button {
     cursor: pointer;
     font-weight: bold;
@@ -86,7 +85,6 @@
     color: white;
     transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
   }
-
   button:hover {
     color: #0f0c29;
     background-color: #FECA94;
@@ -104,7 +102,6 @@
     text-align: center;
     background: rgba(255, 255, 255, 0.2);
   }
-
   #lyrics {
     margin-top: 1rem;
     padding: 1rem;
@@ -125,7 +122,6 @@
   transition: opacity 0.6s ease, transform 0.6s ease;
   pointer-events: none;
 }
-
 .song-link.show {
   opacity: 1;
   transform: translateY(0) scale(1);

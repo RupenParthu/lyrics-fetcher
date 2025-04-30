@@ -11,7 +11,6 @@ function getLyrics() {
     return;
   }
 
-
   lyricsDiv.textContent = 'Fetching lyrics...';
 
   const songLinkDiv = document.querySelector('.song-link');
